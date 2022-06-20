@@ -33,7 +33,7 @@ $tabImages = $imageBySearchEngine->search( $query, $limit, $searchengine );
 '$tabImages' is an array contains '$limit' items of your research.
 
 ```
-#Pictures
-![Page project](https://github.com/AM-ELSHI/enginesearchimage/blob/main/assets/pageprojet.JPG)
+## Pictures
+![Page project](assets/pageprojet.jpg)
 
-![Page project](https://github.com/AM-ELSHI/enginesearchimage/blob/main/assets/pageresultat.JPG)
+![With results](assets/pageresultat.jpg)
