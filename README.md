@@ -13,7 +13,7 @@ require 'engine.php';
 ## Usage
 
 ```python
-require 'engine.php';
+require 'lib/engine.php';
 
 # Required variables
 $query = 'description of image searching' ;
@@ -37,3 +37,6 @@ $tabImages = $imageBySearchEngine->search( $query, $limit, $searchengine );
 ![Page project](assets/pageprojet.jpg)
 
 ![With results](assets/pageresultat.jpg)
+
+## Contributing
+Thank you to [Joseph BIBANG](https://github.com/BIBANGJoseph1993), a Developer Full-Stack.
